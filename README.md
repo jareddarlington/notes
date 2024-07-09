@@ -1,9 +1,9 @@
-# --Example Class-- Lecture Notes
+# "Class" Lecture Notes
 
-// class description here
+## "Class Description"
 
--   Number: --Example Class Number--
--   Title: --Example Class Title--
--   School: --Example School--
--   Professor: --Example Professor--
--   Term: --Example Term--
+-   Number: "Class Number"
+-   Title: "Class Title"
+-   School: "School"
+-   Professor: "Professor"
+-   Term: "Term"
